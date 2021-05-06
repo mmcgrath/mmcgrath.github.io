@@ -28,7 +28,7 @@ twitter_username: mmcgrath
 github_username:  mmcgrath
 
 # Build settings
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-merlot
 plugins:
   - jekyll-feed
 
