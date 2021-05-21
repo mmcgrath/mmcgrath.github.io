@@ -28,7 +28,9 @@ twitter_username: mmcgrath
 github_username:  mmcgrath
 
 # Build settings
-theme: jekyll-theme-merlot
+# theme: jekyll-theme-merlot
+theme: jekyll-theme-tactile
+
 plugins:
   - jekyll-feed
 
