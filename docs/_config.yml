@@ -20,8 +20,7 @@
 
 title: irish.aero
 email: michael@irish.aero
-description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my site
+description: Welcome to my site. I put this together to be somewhere for aviation-related videos, photos and thoughts. I hope you enjoy it.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mmcgrath
