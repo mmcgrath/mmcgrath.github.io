@@ -60,9 +60,7 @@ KCLL 141953Z 04005KT 10SM FEW050 SCT080 36/24 A2993
 ```
 36°C (97°F)!! Even after I landed and opened the window all I got was scorching hot air blasting past -- I could feel the humidity like a blanket. I parked up at Astin Aviation and got an Uber to my hotel; when I got there I recorded a video with some immediate thoughts on the journey:
 
-<iframe width="420" height="315"
-src="https://youtu.be/RBqB9R1Z3_M">
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBqB9R1Z3_M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The journey back
 ---
