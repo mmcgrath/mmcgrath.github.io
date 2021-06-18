@@ -3,6 +3,7 @@ layout: post
 title:  "Biggest/longest trip I've ever done (part 1)"
 date:   2021-06-16 15:48:42 -0600
 categories: flying
+comments: true
 ---
 I had a meeting with a client in College Station, TX booked for this week and flew down myself. It was (by far) the longest flights I've done and this post describes some of the experience.
 
