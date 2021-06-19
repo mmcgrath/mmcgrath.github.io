@@ -45,7 +45,7 @@ I landed at a deserted Childress airfield and topped up on gas - although it was
 
 Leg 2: KCDS-CLL
 ----
-This was the most interested leg of the entire trip; firstly, I couldn't proceed on course because the weather system was directly in my way - I had to go east until I got near Wichita Falls before I was able to turn south.
+This was the most interesting leg of the entire trip; firstly, I couldn't proceed on course because the weather system was directly in my way - I had to go east until I got near Wichita Falls before I was able to turn south.
 
 ![KCDS-KCLL](/images/2021-06-17/wx1.png)
 
