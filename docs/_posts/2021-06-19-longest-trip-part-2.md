@@ -3,7 +3,7 @@ layout: post
 title:  "Biggest/longest trip I've ever done (part 2)"
 date:   2021-06-19 19:53:42 -0600
 categories: flying
-comments: true
+comments: false
 ---
 In the [previous post]({% post_url 2021-06-16-longest-trip %}) I described the journey from Fort Collins, CO down to College Station, TX. In this post, I'll cover the return trip.
 
